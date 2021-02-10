@@ -6,7 +6,7 @@ I'm a Student in Computer Engineering I Love to learn a lot and work more so if 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-khalifa-3569301a1/)
 <!-- - [discord](https://discord.gg/8FYgWUXjfP) -->
 
-## skilles
+## Skills
 
 - [react js,Redux,Hooks](https://coursera.org/share/1d7642a56ef86b4e820235ee44b50291)
 - [nodejs](https://coursera.org/share/b923b7f38a5da69cc5a1f3492c6ec8de)
