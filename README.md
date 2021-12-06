@@ -16,22 +16,6 @@ I'm a Student in Computer Engineering I Love to learn a lot and work more so if 
 - [HTML5,CSS3](https://coursera.org/share/1d7642a56ef86b4e820235ee44b50291)
 - python script
 
-# Preview websites
+mostaql portfolio 
 
-https://khali70.github.io/Html-Css-first-templat/
-
-https://khali70.github.io/second/
-
-https://khali70.github.io/corona-micro-html-css-page/
-
-https://khali70.github.io/js-recipe/
-
-https://khali70.github.io/CV
-
-https://khali70.github.io/Movie-app/
-
-https://khali70.github.io/E-commerce/
-
-<!-- https://khali70.github.io/react-templat/ -->
-
-https://kali70-fast-healthy.netlify.app/
+[https://eg.mostaql.com/u/A7med_khalefa/portfolio](https://eg.mostaql.com/u/A7med_khalefa/portfolio)
