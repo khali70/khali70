@@ -17,5 +17,4 @@ I'm a Student in Computer Engineering I Love to learn a lot and work more so if 
 - python script
 
 
-feel free to visite my mostqel portfolio
-[mostaql portfolio ](https://eg.mostaql.com/u/A7med_khalefa/portfolio)
+feel free to visite my [mostaql portfolio ](https://eg.mostaql.com/u/A7med_khalefa/portfolio)
