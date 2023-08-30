@@ -16,7 +16,7 @@
 
 ###
 
-I'm a Student in Computer Engineering I Love to learn a lot and work more so if you need something feel free to contact me
+Freelance Programmer with a knack for crafting efficient solutions using React.js, Node.js, and Postgres. My portfolio boasts of significant projects like the 'Epin-Store' website and 'Elmofarge' desktop application. I'm a lifelong learner, always ready to embrace new challenges and technologies. Open for collaborations and project discussions. Let's connect and create something amazing together!
 
 - [telegram](https://t.me/Khalifa153)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-khalifa-3569301a1/)
