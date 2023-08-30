@@ -66,6 +66,6 @@ feel free to visit my [mostaql portfolio ](https://eg.mostaql.com/u/A7med_khalef
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/khali70/khali70/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/khali70/khali70/output/snake.svg" alt="Snake animation" /> -->
 
 ###
