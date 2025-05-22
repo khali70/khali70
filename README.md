@@ -18,7 +18,7 @@
 
 Freelance Programmer with a knack for crafting efficient solutions using React.js, Node.js, and Postgres. My portfolio boasts of significant projects like the 'Epin-Store' website and 'Elmofarge' desktop application. I'm a lifelong learner, always ready to embrace new challenges and technologies. Open for collaborations and project discussions. Let's connect and create something amazing together!
 
-- [telegram](https://t.me/Khalifa153)
+- [telegram](https://t.me/AhmedKhalifaDev)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-khalifa-3569301a1/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=+201030790400&text=Hello%20I%20get%20to%20Know%20you%20From%20github%20and%20want%20to%20know%20more%20about%20you)
   <!-- - [discord](https://discord.gg/8FYgWUXjfP) -->
